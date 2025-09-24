@@ -1,1 +1,1 @@
-# java-studies
+# ☕ Java Studies
